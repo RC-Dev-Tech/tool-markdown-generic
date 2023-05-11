@@ -39,14 +39,14 @@ Markdown 是一種輕量級的標記語言，設計用於簡單地編寫格式�
 使用  `[顯示文字](#連結標題名稱)` 來建立錨點。
 ``` markdown
 ## title
-- [i am title](#title)
+- [display title name](#title)
 ```
 ```diff
 - 注意，標題的連結名稱不能有其他特殊字元，可以用空格，但連結的方式要改成用'-'符號來做連結，如下所示：
 ```
 ``` markdown
 ## i am title
-- [epic title](#i-am-title)
+- [display title name](#i-am-title)
 ```
 
 ---
