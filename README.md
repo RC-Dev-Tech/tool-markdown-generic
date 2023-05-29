@@ -92,11 +92,17 @@ __粗體文字__
 [OpenAI](https://openai.com)
 ![Logo](https://example.com/logo.png)
 ```
+顯示如下:
+[OpenAI](https://openai.com)
+![Logo](https://example.com/logo.png)
+
 
 如果想要讓圖片縮小的話，可以用html的語法來達成效果.
 ``` markdown
 <img src="https://example.com/logo.png" height="70%" width="70%"/>
 ```
+顯示如下:
+<img src="https://example.com/logo.png" height="70%" width="70%"/>
 
 ---
 
